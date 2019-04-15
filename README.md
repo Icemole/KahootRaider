@@ -12,7 +12,20 @@ npm i puppeteer
 
 Puppeteer takes quite a lot of space (from 150MB to 300MB depending on your operating system), so take this into account when using the program.
 
+The program logs some instructions to the console when executing it, I don't find it hard to follow them. However, I was the one who programmed it, so if you find something unclear about the instructions please let me know through an issue.
+
 If you find any bug, feel free to open an issue.
+
+---
+
+## TODO
+Description | Done?
+----------- | -----
+Basic program functionality | :heavy_check_mark:
+Make the code more readable (wrap into functions) | :x:
+Visual interface | :question:
+Parallelization | :question:
+
 
 ---
 
