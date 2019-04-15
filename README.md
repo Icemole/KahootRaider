@@ -23,8 +23,8 @@ Description | Done?
 ----------- | -----
 Basic program functionality | :heavy_check_mark:
 Make the code more readable (wrap into functions) | :x:
-Visual interface | :question:
-Parallelization | :question:
+Visual interface | :x:
+Parallelization | :x:
 
 
 ---
