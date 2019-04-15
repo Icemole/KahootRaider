@@ -1,3 +1,6 @@
+# KahootRaider
+
+A JavaScript / Node.js utility to raid Kahoot! games with usernames provided by the user.
 
 This program uses [Google Chrome's Puppeteer](https://github.com/GoogleChrome/puppeteer)'s library in order to create Kahoot! tabs, which will be (correctly, hopefully!) filled in with the PIN and nickname provided when executing the program.
 
